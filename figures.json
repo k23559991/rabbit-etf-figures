@@ -1,0 +1,1261 @@
+{
+  "figures": {
+    "0167A0": {
+      "asOf": null,
+      "conservative": 10,
+      "currency": "KRW",
+      "listingDate": "2026-03-17",
+      "lockedReason": "since·y5·y10·y15: 상장 2026-03-17로 1년 미만, 신한자산운용 팩트시트 미확인. 종목코드가 숫자 6자리가 아닌 영숫자 혼합(0167A0) — 2024년 이후 상장 종목의 신규 코드 체계.",
+      "market": "KR",
+      "name": "SOL AI반도체TOP2플러스",
+      "parkingType": false,
+      "source": null,
+      "verified": {
+        "since": null,
+        "y10": null,
+        "y15": null,
+        "y5": null
+      }
+    },
+    "069500": {
+      "asOf": "2026-07-31",
+      "conservative": 7.5,
+      "currency": "KRW",
+      "listingDate": "2002-10-14",
+      "lockedReason": "y10·y15: 발행사 공시(월간 팩트시트·간이투자설명서)에 10년·15년 기간 미게재. y5는 간이투자설명서(작성기준일 2026-09-11) 기준이며 since와 기준일이 다름(2026-07-31 vs 2026-09-11).",
+      "market": "KR",
+      "name": "KODEX 200",
+      "parkingType": false,
+      "source": "https://www.samsungfund.com/sheet/20260805/2ETF01_20260731.pdf",
+      "verified": {
+        "since": 13.92,
+        "y10": null,
+        "y15": null,
+        "y5": 24.16
+      }
+    },
+    "091160": {
+      "asOf": "2026-10-31",
+      "conservative": 10,
+      "currency": "KRW",
+      "listingDate": "2006-06-27",
+      "lockedReason": "y5: 발행사 월간 팩트시트에 5년 기간 미게재, 간이투자설명서 미확인. y10·y15: 발행사 공시에 10년·15년 기간 미게재.",
+      "market": "KR",
+      "name": "KODEX 반도체",
+      "parkingType": false,
+      "source": "https://www.samsungfund.com/sheet/20261104/2ETF07_20261031.pdf",
+      "verified": {
+        "since": 13.74,
+        "y10": null,
+        "y15": null,
+        "y5": null
+      }
+    },
+    "102110": {
+      "asOf": "2024-02-29",
+      "conservative": 7.5,
+      "currency": "KRW",
+      "listingDate": "2008-04-03",
+      "lockedReason": "y10·y15: 발행사 공시에 10년·15년 기간 미게재. 검증 기준일이 2024-02-29로 오래됨 — 최신 간이투자설명서로 갱신 필요.",
+      "market": "KR",
+      "name": "TIGER 200",
+      "parkingType": false,
+      "source": "https://weblink.kfr.co.kr/펀드공시대행서비스/KOFIA/간이투자설명서/20240314/KR5225812712_20240313_301_간이.pdf",
+      "verified": {
+        "since": 4.72,
+        "y10": null,
+        "y15": null,
+        "y5": 6.91
+      }
+    },
+    "114800": {
+      "asOf": "2026-10-31",
+      "conservative": -5,
+      "currency": "KRW",
+      "listingDate": "2009-09-16",
+      "lockedReason": "y5: 발행사 월간 팩트시트에 5년 기간 미게재, 간이투자설명서 미확인. y10·y15: 발행사 공시에 10년·15년 기간 미게재.",
+      "market": "KR",
+      "name": "KODEX 인버스",
+      "parkingType": false,
+      "source": "https://www.samsungfund.com/sheet/20261104/2ETF20_20261031.pdf",
+      "verified": {
+        "since": -11.7,
+        "y10": null,
+        "y15": null,
+        "y5": null
+      }
+    },
+    "122630": {
+      "asOf": "2026-09-30",
+      "conservative": 5,
+      "currency": "KRW",
+      "listingDate": "2010-02-22",
+      "lockedReason": "y5: 발행사 월간 팩트시트에 5년 기간 미게재, 간이투자설명서 미확인. y10·y15: 발행사 공시에 10년·15년 기간 미게재.",
+      "market": "KR",
+      "name": "KODEX 레버리지",
+      "parkingType": false,
+      "source": "https://www.samsungfund.com/sheet/20261002/2ETF25_20260930.pdf",
+      "verified": {
+        "since": 15.67,
+        "y10": null,
+        "y15": null,
+        "y5": null
+      }
+    },
+    "133690": {
+      "asOf": "2026-04-30",
+      "conservative": 9.5,
+      "currency": "KRW",
+      "listingDate": "2010-10-15",
+      "lockedReason": "y10·y15: 발행사 공시(투자설명서)에 10년·15년 기간 미게재 (투자설명서 투자실적추이 표는 5년+설정 이후까지만 게재). 상장일은 최초설정일 2010-10-15 기준이며, 2010-10-18로 표기되는 경우도 있음.",
+      "market": "KR",
+      "name": "TIGER 미국나스닥100",
+      "parkingType": false,
+      "source": "https://investments.miraeasset.com/tigeretf/upload/etf/20260528095823000271.pdf;jsessionid=yDEqmYCNs12yfMnTlLF9O58d.ip-172-31-24-197",
+      "verified": {
+        "since": 20.67,
+        "y10": null,
+        "y15": null,
+        "y5": 21.36
+      }
+    },
+    "148020": {
+      "asOf": null,
+      "conservative": 7.5,
+      "currency": "KRW",
+      "listingDate": "2011-10-20",
+      "lockedReason": "since·y5·y10·y15: KB자산운용 팩트시트·간이투자설명서 미확인 — 발행사 공시에서 기간 수익률 확인 안 됨.",
+      "market": "KR",
+      "name": "RISE 200",
+      "parkingType": false,
+      "source": null,
+      "verified": {
+        "since": null,
+        "y10": null,
+        "y15": null,
+        "y5": null
+      }
+    },
+    "229200": {
+      "asOf": "2026-06-30",
+      "conservative": 5,
+      "currency": "KRW",
+      "listingDate": "2015-10-01",
+      "lockedReason": "y5: 발행사 월간 팩트시트에 5년 기간 미게재, 간이투자설명서 미확인. y10·y15: 발행사 공시에 10년·15년 기간 미게재.",
+      "market": "KR",
+      "name": "KODEX 코스닥150",
+      "parkingType": false,
+      "source": "https://m.samsungfund.com/sheet/20260706/2ETF54_20260630.pdf",
+      "verified": {
+        "since": 4.8,
+        "y10": null,
+        "y15": null,
+        "y5": null
+      }
+    },
+    "233740": {
+      "asOf": "2026-10-31",
+      "conservative": -3,
+      "currency": "KRW",
+      "listingDate": "2015-12-17",
+      "lockedReason": "y5: 발행사 월간 팩트시트에 5년 기간 미게재, 간이투자설명서 미확인. y10·y15: 발행사 공시에 10년·15년 기간 미게재.",
+      "market": "KR",
+      "name": "KODEX 코스닥150레버리지",
+      "parkingType": false,
+      "source": "https://m.samsungfund.com/sheet/20261104/2ETF56_20261031.pdf",
+      "verified": {
+        "since": -6.47,
+        "y10": null,
+        "y15": null,
+        "y5": null
+      }
+    },
+    "252670": {
+      "asOf": "2026-10-31",
+      "conservative": -10,
+      "currency": "KRW",
+      "listingDate": "2016-09-22",
+      "lockedReason": "y5: 발행사 월간 팩트시트에 5년 기간 미게재, 간이투자설명서 미확인. y10·y15: 발행사 공시에 10년·15년 기간 미게재.",
+      "market": "KR",
+      "name": "KODEX 200선물인버스2X",
+      "parkingType": false,
+      "source": "https://www.samsungfund.com/sheet/20261104/2ETF70_20261031.pdf",
+      "verified": {
+        "since": -36.73,
+        "y10": null,
+        "y15": null,
+        "y5": null
+      }
+    },
+    "278530": {
+      "asOf": null,
+      "conservative": 7.5,
+      "currency": "KRW",
+      "listingDate": "2017-11-21",
+      "lockedReason": "since·y5·y10·y15: 삼성 월간 팩트시트(2026-10-31) 미확인 — 발행사 공시에서 기간 수익률 확인 안 됨.",
+      "market": "KR",
+      "name": "KODEX 200TR",
+      "parkingType": false,
+      "source": null,
+      "verified": {
+        "since": null,
+        "y10": null,
+        "y15": null,
+        "y5": null
+      }
+    },
+    "360750": {
+      "asOf": "2026-07-31",
+      "conservative": 8,
+      "currency": "KRW",
+      "listingDate": "2020-08-07",
+      "lockedReason": "y5: 발행사 월간 팩트시트에 5년 기간 미게재, 2026년 간이투자설명서 미확인. y10·y15: 상장 2020년으로 해당 기간 없음.",
+      "market": "KR",
+      "name": "TIGER 미국S&P500",
+      "parkingType": false,
+      "source": "http://investments.miraeasset.com/tigeretf/upload/etf/20260805110955009569.pdf;jsessionid=U3LuN4nbBokmhkb0-Eb4WD2b.ip-172-31-2-74",
+      "verified": {
+        "since": 18.87,
+        "y10": null,
+        "y15": null,
+        "y5": null
+      }
+    },
+    "379800": {
+      "asOf": "2026-10-31",
+      "conservative": 8,
+      "currency": "KRW",
+      "listingDate": "2021-04-09",
+      "lockedReason": "y10·y15: 상장 2021년으로 해당 기간 없음. y5는 삼성자산운용 2026-10-28 발표 누적 100.2%를 연환산한 값(팩트시트에 5년 기간 미게재).",
+      "market": "KR",
+      "name": "KODEX 미국S&P500",
+      "parkingType": false,
+      "source": "https://www.samsungfund.com/sheet/20261104/2ETFE4_20261031.pdf",
+      "verified": {
+        "since": 16.99,
+        "y10": null,
+        "y15": null,
+        "y5": 14.89
+      }
+    },
+    "379810": {
+      "asOf": "2026-10-31",
+      "conservative": 9.5,
+      "currency": "KRW",
+      "listingDate": "2021-04-09",
+      "lockedReason": "y10·y15: 상장 2021년으로 해당 기간 없음. y5는 삼성자산운용 2026-10-28 발표 누적 117.6%를 연환산한 값(팩트시트에 5년 기간 미게재).",
+      "market": "KR",
+      "name": "KODEX 미국나스닥100",
+      "parkingType": false,
+      "source": "https://www.samsungfund.com/sheet/20261104/2ETFE3_20261031.pdf",
+      "verified": {
+        "since": 19.06,
+        "y10": null,
+        "y15": null,
+        "y5": 16.82
+      }
+    },
+    "396500": {
+      "asOf": null,
+      "conservative": 10,
+      "currency": "KRW",
+      "listingDate": "2021-08-10",
+      "lockedReason": "since·y5·y10·y15: 미래에셋 월간 팩트시트·간이투자설명서 미확인 — 발행사 공시에서 기간 수익률 확인 안 됨.",
+      "market": "KR",
+      "name": "TIGER 반도체TOP10",
+      "parkingType": false,
+      "source": null,
+      "verified": {
+        "since": null,
+        "y10": null,
+        "y15": null,
+        "y5": null
+      }
+    },
+    "459580": {
+      "asOf": "2026-10-31",
+      "conservative": 2.5,
+      "currency": "KRW",
+      "listingDate": "2023-06-08",
+      "lockedReason": "y5·y10·y15: 상장 2023-06-08로 해당 기간 없음.",
+      "market": "KR",
+      "name": "KODEX CD금리액티브(합성)",
+      "parkingType": true,
+      "source": "https://www.samsungfund.com/sheet/20261104/2ETFJ8_20261031.pdf",
+      "verified": {
+        "since": 3.21,
+        "y10": null,
+        "y15": null,
+        "y5": null
+      }
+    },
+    "488080": {
+      "asOf": null,
+      "conservative": 8,
+      "currency": "KRW",
+      "listingDate": "2024-07-23",
+      "lockedReason": "since·y5·y10·y15: 상장 2024-07-23으로 5년 이상 기간 없음. 설정 이후 수익률은 미래에셋 팩트시트 미확인.",
+      "market": "KR",
+      "name": "TIGER 반도체TOP10레버리지",
+      "parkingType": false,
+      "source": null,
+      "verified": {
+        "since": null,
+        "y10": null,
+        "y15": null,
+        "y5": null
+      }
+    },
+    "488770": {
+      "asOf": "2026-10-31",
+      "conservative": 2.5,
+      "currency": "KRW",
+      "listingDate": "2024-08-06",
+      "lockedReason": "y5·y10·y15: 상장 2024-08-06으로 해당 기간 없음.",
+      "market": "KR",
+      "name": "KODEX 머니마켓액티브",
+      "parkingType": true,
+      "source": "https://www.samsungfund.com/sheet/20261104/2ETFO1_20261031.pdf",
+      "verified": {
+        "since": 3.29,
+        "y10": null,
+        "y15": null,
+        "y5": null
+      }
+    },
+    "494310": {
+      "asOf": "2026-09-30",
+      "conservative": 8,
+      "currency": "KRW",
+      "listingDate": "2024-10-22",
+      "lockedReason": "y5·y10·y15: 상장 2024-10-22로 해당 기간 없음. 주의: since 연평균 221.51%는 상장 후 1.94년 단기 구간(누적 861.93%)을 연환산한 값으로, 장기 수익률로 해석하면 안 됨 — 표시 시 주의 필요(보고서 참조).",
+      "market": "KR",
+      "name": "KODEX 반도체레버리지",
+      "parkingType": false,
+      "source": "https://www.samsungfund.com/sheet/20261002/2ETFO8_20260930.pdf",
+      "verified": {
+        "since": 221.51,
+        "y10": null,
+        "y15": null,
+        "y5": null
+      }
+    },
+    "AVDV": {
+      "asOf": "2026-09-30",
+      "conservative": 8,
+      "currency": "USD",
+      "listingDate": "2019-09-24",
+      "lockedReason": "y10·y15 없음: 상장 2019-09-24",
+      "market": "US",
+      "name": "Avantis International Small Cap Value ETF",
+      "parkingType": false,
+      "source": "https://www.schwab.wallst.com/Prospect/Research/etfs/summary.asp?symbol=avdv",
+      "verified": {
+        "since": 15.2,
+        "y10": null,
+        "y15": null,
+        "y5": 15.2
+      }
+    },
+    "AVUV": {
+      "asOf": "2026-09-30",
+      "conservative": 8,
+      "currency": "USD",
+      "listingDate": "2019-09-24",
+      "lockedReason": "y10·y15 없음: 상장 2019-09-24",
+      "market": "US",
+      "name": "Avantis U.S. Small Cap Value ETF",
+      "parkingType": false,
+      "source": "https://res.avantisinvestors.com/docs/avantis-us-small-cap-value-avuv-etf-fact-sheet.pdf",
+      "verified": {
+        "since": 14.8,
+        "y10": null,
+        "y15": null,
+        "y5": 11.17
+      }
+    },
+    "DGRO": {
+      "asOf": "2026-09-30",
+      "conservative": 8,
+      "currency": "USD",
+      "distributionRate": {
+        "asOf": "2026-09-30",
+        "basis": "TTM",
+        "value": 1.98
+      },
+      "listingDate": "2014-06-10",
+      "lockedReason": "y15: 상장 2014-06-10으로 15년 기간 없음.",
+      "market": "US",
+      "name": "iShares Core Dividend Growth ETF",
+      "note": "conservative 8은 기존 앱 값 유지. verified는 iShares 표준 분기 총수익률(2026-09-30 기준) NAV 기준. y5·y10 소수 2자리 값(10.96%·13.16%)은 iShares 펀드 페이지 공시값이며, Schwab 표준 분기 보고서에는 같은 수치가 소수 1자리(11.0%·13.2%)로 게재됨.",
+      "parkingType": false,
+      "source": "https://www.schwab.wallst.com/schwab/Prospect/research/etfs/reports/reportRetrieve.asp?reportType=etfrc&symbol=DGRO",
+      "verified": {
+        "since": 12.0,
+        "y10": 13.16,
+        "y15": null,
+        "y5": 10.96
+      }
+    },
+    "DIVO": {
+      "asOf": "2026-09-30",
+      "conservative": 6.5,
+      "currency": "USD",
+      "distributionRate": {
+        "asOf": "2026-11-20",
+        "basis": "TTM",
+        "value": 5.22
+      },
+      "listingDate": "2016-12-13",
+      "lockedReason": "y10·y15: 발행사 성과표에 10년 열 '—' 표시. 상장 2016-12-13으로 2026-09-30 기준 10년 미경과(약 9.8년).",
+      "market": "US",
+      "name": "Amplify CWP Enhanced Dividend Income ETF",
+      "note": "verified는 Amplify 공식 성과표 2026-09-30 분기말 기준 NAV 연평균 총수익률(배당 재투자). 분배율 5.22%는 보완 리스트 기준(2026-11-20)이며, Amplify 2026-09-30 코멘터리 기준 분배율은 4.88%. 보수적 값 6.5는 기존 앱 값 유지.",
+      "parkingType": false,
+      "source": "https://amplifyetfs.com/cwp-covered-call-suite/",
+      "verified": {
+        "since": 12.4,
+        "y10": null,
+        "y15": null,
+        "y5": 11.55
+      }
+    },
+    "DVY": {
+      "asOf": "2026-09-30",
+      "conservative": 7,
+      "currency": "USD",
+      "distributionRate": {
+        "asOf": "2026-11-22",
+        "basis": "TTM",
+        "value": 3.43
+      },
+      "listingDate": "2003-11-03",
+      "lockedReason": "y15: 발행사 팩트시트 표에 15년 열 없음 (1·3·5·10년+설정 이후만 게재).",
+      "market": "US",
+      "name": "iShares Select Dividend ETF",
+      "note": "conservative 7은 공시가 아닌 기획 가정값 (10년 9.76%·5년 9.68%·설정 이후 8.74% 대비 보수적 설정). verified 수치는 iShares 펀드 페이지 공시값(2026-09-30 기준, NAV)을 해당 비교표에서 확인한 것.",
+      "parkingType": false,
+      "source": "https://etftotalreturns.com/hdv-vs-nobl-vs-sdy-vs-dvy-total-returns.html",
+      "verified": {
+        "since": 8.74,
+        "y10": 9.76,
+        "y15": null,
+        "y5": 9.68
+      }
+    },
+    "FTQI": {
+      "asOf": "2026-09-30",
+      "conservative": 6.5,
+      "currency": "USD",
+      "distributionRate": {
+        "asOf": "2026-11-23",
+        "basis": "approx",
+        "value": 12
+      },
+      "listingDate": "2014-01-06",
+      "lockedReason": "y15: 상장 2014-01-06으로 2026-09-30 기준 15년 기간 없음(약 12.7년).",
+      "market": "US",
+      "name": "First Trust Nasdaq BuyWrite Income ETF",
+      "note": "verified는 First Trust 펀드 페이지 분기말(2026-09-30) 기준 NAV 연평균 총수익률(배당 재투자). 분배율 12%는 보완 리스트 기준 근사치(~12%, 2026-11-23)이며, First Trust 2026-10-30 기준 12개월 분배율은 11.64% — NAV 총수익률과 별개. 보수적 값 6.5는 10년 8.21%·설정 이후 7.07%의 장기 기록을 반영한 기획 가정값으로 공시가 아님.",
+      "parkingType": false,
+      "source": "https://www.ftportfolios.com/retail/etf/etfsummary.aspx?Ticker=FTQI",
+      "verified": {
+        "since": 7.07,
+        "y10": 8.21,
+        "y15": null,
+        "y5": 11.46
+      }
+    },
+    "GPIQ": {
+      "asOf": "2026-09-30",
+      "conservative": 8,
+      "currency": "USD",
+      "distributionRate": {
+        "asOf": "2026-11",
+        "basis": "TTM",
+        "value": 11.83
+      },
+      "listingDate": "2023-10-24",
+      "lockedReason": "y5·y10·y15: 상장 2023-10-24로 해당 기간 없음.",
+      "market": "US",
+      "name": "Goldman Sachs Nasdaq-100 Premium Income ETF",
+      "note": "verified는 Goldman Sachs 팩트시트 2026-09-30 분기말 기준 NAV 연평균 총수익률(배당 재투자, 설정 이후 25.17%). 보수 총보수 0.35%에 fee waiver 적용 후 순보수 0.29% — waiver 종료 시 0.35%로 오를 수 있음. 분배의 대부분이 자본반환(2026-09-30 기준 회계연도 누적 약 97.1%)이라 세금 처리가 일반 배당과 다름. 분배율 11.83%는 보완 리스트 기준(2026-11)이며 NAV 총수익률과 별개. 보수적 값 8은 설정 이후 25.17%가 3년의 짧은 강세장 기록임을 감안해 낮춘 기획 가정값으로 공시가 아님.",
+      "parkingType": false,
+      "source": "https://am.gs.com/public-assets/documents/56d9302a-24d6-11ef-870d-75b79677a344",
+      "verified": {
+        "since": 25.17,
+        "y10": null,
+        "y15": null,
+        "y5": null
+      }
+    },
+    "GPIX": {
+      "asOf": "2026-09-30",
+      "conservative": 7.5,
+      "currency": "USD",
+      "distributionRate": {
+        "asOf": "2026-11",
+        "basis": "TTM",
+        "value": 9.27
+      },
+      "listingDate": "2023-10-24",
+      "lockedReason": "y5·y10·y15: 상장 2023-10-24로 해당 기간 없음.",
+      "market": "US",
+      "name": "Goldman Sachs S&P 500 Premium Income ETF",
+      "note": "verified는 Goldman Sachs 월간 업데이트 기준 표준화 성과 2026-09-30 분기말 NAV 연평균 총수익률(배당 재투자, 설정 이후 21.28%). 보수 총보수 0.35%에 fee waiver 적용 후 순보수 0.29% — waiver 종료 시 0.35%로 오를 수 있음. 분배의 대부분이 자본반환(2026-10-31 기준 약 91.3%)이라 세금 처리가 일반 배당과 다름. 분배율 9.27%는 보완 리스트 기준(2026-11)이며 NAV 총수익률과 별개. 보수적 값 7.5는 설정 이후 21.28%가 3년의 짧은 강세장 기록임을 감안해 낮춘 기획 가정값으로 공시가 아님.",
+      "parkingType": false,
+      "source": "https://am.gs.com/public-assets/documents/32d6c236-be58-11f0-99eb-ad60b55d6684",
+      "verified": {
+        "since": 21.28,
+        "y10": null,
+        "y15": null,
+        "y5": null
+      }
+    },
+    "HDV": {
+      "asOf": "2026-09-30",
+      "conservative": 7,
+      "currency": "USD",
+      "distributionRate": {
+        "asOf": "2026-11-22",
+        "basis": "TTM",
+        "value": 3.43
+      },
+      "listingDate": "2011-03-29",
+      "lockedReason": "y15: 발행사 팩트시트 표에 15년 열 없음 (1·3·5·10년+설정 이후만 게재).",
+      "market": "US",
+      "name": "iShares Core High Dividend ETF",
+      "note": "conservative 7은 기존 앱 값 유지. verified 수치는 iShares 펀드 페이지 공시값(2026-09-30 기준, NAV)을 해당 비교표에서 확인한 것. 2026년 4월 5대1 액면분할, 2026년 7월부터 월배당으로 전환 — 과거 분기배당 시절 분배율·분배금과 직접 비교하지 말 것.",
+      "parkingType": false,
+      "source": "https://etftotalreturns.com/hdv-vs-nobl-vs-sdy-vs-dvy-total-returns.html",
+      "verified": {
+        "since": 10.61,
+        "y10": 9.43,
+        "y15": null,
+        "y5": 12.1
+      }
+    },
+    "IEFA": {
+      "asOf": "2026-09-30",
+      "conservative": 6,
+      "currency": "USD",
+      "listingDate": "2012-10-18",
+      "lockedReason": "y15 없음: 상장 2012-10-18로 15년 기간 없음",
+      "market": "US",
+      "name": "iShares Core MSCI EAFE ETF",
+      "parkingType": false,
+      "source": "https://franklintempletonprod.widen.net/content/zby4fjlvba/original/Factsheet-FTMultiManagerAllEquityplusDigitalAssetsETF-46940-Primerica-US-en-US.pdf?u=efebcg&download=true",
+      "verified": {
+        "since": 8.14,
+        "y10": 9.09,
+        "y15": null,
+        "y5": 9.04
+      }
+    },
+    "ISPY": {
+      "asOf": "2026-09-30",
+      "conservative": 7.5,
+      "currency": "USD",
+      "distributionRate": {
+        "asOf": "2026-11",
+        "basis": "TTM",
+        "value": 6.51
+      },
+      "listingDate": "2023-12-18",
+      "lockedReason": "y5·y10·y15: 상장 2023-12-18로 해당 기간 없음.",
+      "market": "US",
+      "name": "ProShares S&P 500 High Income ETF",
+      "note": "verified는 ProShares 팩트시트 2026-09-30 기준 NAV 연평균 총수익률(배당 재투자, 설정 이후 16.11%). 분배율 6.51%는 보완 리스트 기준 배당수익률(2026-11)이며, ProShares 팩트시트 2026-09-30 기준 12개월 분배율은 9.48%로 정의가 달라 수치에 차이가 있음 — NAV 총수익률과 별개. 보수적 값 7.5는 설정 이후 16.11%가 2.8년의 짧은 강세장 기록임을 감안해 낮춘 기획 가정값으로 공시가 아님.",
+      "parkingType": false,
+      "source": "https://www.proshares.net/globalassets/proshares/fact-sheet/prosharesfactsheetispy.pdf",
+      "verified": {
+        "since": 16.11,
+        "y10": null,
+        "y15": null,
+        "y5": null
+      }
+    },
+    "IVV": {
+      "asOf": "2026-09-30",
+      "conservative": 8,
+      "currency": "USD",
+      "listingDate": "2000-05-15",
+      "lockedReason": "y15 없음: 발행사 표에 15년 열 없음",
+      "market": "US",
+      "name": "iShares Core S&P 500 ETF",
+      "parkingType": false,
+      "source": "https://www.schwab.wallst.com/Prospect/Research/mutualfunds/reports/reportRetrieve.asp?symbol=IVV&reportType=mfrc&FundName=iShares%20Core%20S%26P%20500%20ETF",
+      "verified": {
+        "since": 8.42,
+        "y10": 15.3,
+        "y15": null,
+        "y5": 13.76
+      }
+    },
+    "IWMI": {
+      "asOf": "2026-09-30",
+      "conservative": 5,
+      "currency": "USD",
+      "distributionRate": {
+        "asOf": "2026-10-31",
+        "basis": "TTM",
+        "value": 14.21
+      },
+      "listingDate": "2024-06-24",
+      "lockedReason": "y5·y10·y15: 상장 2024-06-24로 해당 기간 없음.",
+      "market": "US",
+      "name": "NEOS Russell 2000 High Income ETF",
+      "note": "verified는 NEOS 공식 펀드 페이지 2026-09-30 분기말 기준 NAV 연평균 총수익률(배당 재투자). 분배의 대부분은 자본반환(return of capital)이라 세금 처리가 일반 배당과 다름. 분배율 14.21%는 NEOS 공식 기준(2026-10-31)이며 NAV 총수익률과 별개. 보수적 값 5는 설정 이후 14.98%가 2.3년의 짧은 기록이고 러셀2000 소형주 기반(동계열 RYLD 5년 2.66%)임을 감안해 낮춘 기획 가정값으로 공시가 아님.",
+      "parkingType": false,
+      "source": "https://neosfunds.com/iwmi/",
+      "verified": {
+        "since": 14.98,
+        "y10": null,
+        "y15": null,
+        "y5": null
+      }
+    },
+    "JEPI": {
+      "asOf": "2026-09-30",
+      "conservative": 7,
+      "currency": "USD",
+      "distributionRate": {
+        "asOf": "2026-11-20",
+        "basis": "TTM",
+        "value": 8.41
+      },
+      "listingDate": "2020-05-20",
+      "lockedReason": "y10·y15: 상장 2020-05-20으로 해당 기간 없음.",
+      "market": "US",
+      "name": "JPMorgan Equity Premium Income ETF",
+      "note": "verified는 기존 검증값 재사용(J.P. Morgan 팩트시트 2026-09-30 기준 NAV 연평균 총수익률, 배당 재투자). 분배율 8.41%는 최근 12개월(TTM) 기준이며 NAV 총수익률과 별개 — 커버드콜 분배금은 배당·옵션 프리미엄 등이 섞인 것으로 주식 배당률과 같은 의미가 아님.",
+      "parkingType": false,
+      "source": "https://am.jpmorgan.com/content/dam/jpm-am-aem/americas/us/en/literature/fact-sheet/etfs/FS-JEPI.PDF",
+      "verified": {
+        "since": 10.81,
+        "y10": null,
+        "y15": null,
+        "y5": 7.78
+      }
+    },
+    "JEPQ": {
+      "asOf": "2026-09-30",
+      "conservative": 8.2,
+      "currency": "USD",
+      "distributionRate": {
+        "asOf": "2026-11-20",
+        "basis": "TTM",
+        "value": 13.67
+      },
+      "listingDate": "2022-05-03",
+      "lockedReason": "y5·y10·y15: 상장 2022-05-03으로 해당 기간 없음.",
+      "market": "US",
+      "name": "JPMorgan Nasdaq Equity Premium Income ETF",
+      "note": "verified는 기존 검증값 재사용(J.P. Morgan 팩트시트 2026-09-30 기준 NAV 연평균 총수익률, 배당 재투자). 분배율 13.67%는 최근 12개월(TTM) 기준이며 NAV 총수익률과 별개 — 커버드콜 분배금은 배당·옵션 프리미엄 등이 섞인 것으로 주식 배당률과 같은 의미가 아님.",
+      "parkingType": false,
+      "source": "https://am.jpmorgan.com/content/dam/jpm-am-aem/americas/us/en/literature/fact-sheet/etfs/FS-JEPQ.pdf",
+      "verified": {
+        "since": 16.89,
+        "y10": null,
+        "y15": null,
+        "y5": null
+      }
+    },
+    "QLD": {
+      "asOf": "2026-10-31",
+      "conservative": 11,
+      "currency": "USD",
+      "distributionRate": {
+        "asOf": "2026-11-20",
+        "basis": "TTM",
+        "value": 0.2
+      },
+      "listingDate": "2006-06-21",
+      "lockedReason": "y15: ProShares 공식 2026-09-30 NAV 팩트시트 미확인으로 잠금. (참고: FinanceCharts 시장가 기준 10년 51.44%는 발행사 NAV 31.92%와 크게 어긋나 검증 근거로 사용하지 않음.)",
+      "market": "US",
+      "name": "ProShares Ultra QQQ",
+      "note": "레버리지 ETF(나스닥100 일일 2배 추종)로 배당 ETF가 아님. 분배율은 참고용이며, 일일 레버리지 리셋으로 장기 수익률이 기초지수 수익률의 2배와 다를 수 있음. 상장일 2006-06-21은 최초 거래일 기준이며, ProShares 공식 설정일(Inception Date)은 2006-06-19임. verified 값은 ProShares 공식 공시(2026-10-31 기준, NAV 총수익률) 그대로 유지.",
+      "parkingType": false,
+      "source": "https://www.proshares.com/our-etfs/leveraged-and-inverse/qld",
+      "verified": {
+        "since": 24.48,
+        "y10": 31.92,
+        "y15": null,
+        "y5": 14.56
+      }
+    },
+    "QQQ": {
+      "asOf": "2026-09-30",
+      "conservative": 9.5,
+      "currency": "USD",
+      "listingDate": "1999-03-10",
+      "lockedReason": "y15 없음: 발행사 표에 15년 열 없음",
+      "market": "US",
+      "name": "Invesco QQQ Trust, Series 1",
+      "parkingType": false,
+      "source": "https://www.invesco.com/us-rest/contentdetail?contentId=841e411c-a1eb-4541-8cb8-0fa603abea81&dnsName=us",
+      "verified": {
+        "since": 10.88,
+        "y10": 20.91,
+        "y15": null,
+        "y5": 16.33
+      }
+    },
+    "QQQI": {
+      "asOf": "2026-09-30",
+      "conservative": 8,
+      "currency": "USD",
+      "distributionRate": {
+        "asOf": "2026-11",
+        "basis": "TTM",
+        "value": 15.37
+      },
+      "listingDate": "2024-01-29",
+      "lockedReason": "y5·y10·y15: 상장 2024-01-29로 해당 기간 없음.",
+      "market": "US",
+      "name": "NEOS Nasdaq-100 High Income ETF",
+      "note": "verified는 NEOS 공식 펀드 페이지 2026-09-30 분기말 기준 NAV 연평균 총수익률(배당 재투자). 분배의 대부분은 자본반환(return of capital)이라 세금 처리가 일반 배당과 다름. 분배율 15.37%는 보완 리스트 기준(2026-11)이며 NAV 총수익률과 별개. 보수적 값 8은 설정 이후 19.91%가 2.7년의 짧은 강세장 기록임을 감안해 낮춘 기획 가정값으로 공시가 아님.",
+      "parkingType": false,
+      "source": "https://neosfunds.com/qqqi/",
+      "verified": {
+        "since": 19.91,
+        "y10": null,
+        "y15": null,
+        "y5": null
+      }
+    },
+    "QQQM": {
+      "asOf": "2026-09-30",
+      "conservative": 9.5,
+      "currency": "USD",
+      "listingDate": "2020-10-13",
+      "lockedReason": "y10·y15 없음: 상장 2020-10-13",
+      "market": "US",
+      "name": "Invesco NASDAQ 100 ETF",
+      "parkingType": false,
+      "source": null,
+      "verified": {
+        "since": 17.46,
+        "y10": null,
+        "y15": null,
+        "y5": 16.4
+      }
+    },
+    "QYLD": {
+      "asOf": "2026-09-30",
+      "conservative": 6,
+      "currency": "USD",
+      "distributionRate": {
+        "asOf": "2026-11-20",
+        "basis": "TTM",
+        "value": 11.93
+      },
+      "listingDate": "2013-12-11",
+      "lockedReason": "y15: 상장 2013-12-11로 2026-09-30 기준 15년 기간 없음(약 12.8년).",
+      "market": "US",
+      "name": "Global X Nasdaq 100 Covered Call ETF",
+      "note": "verified는 Global X 팩트시트 2026-09-30 기준 NAV 연평균 총수익률(배당 재투자). 분배율 11.93%는 보완 리스트 기준(2026-11-20)이며 NAV 총수익률과 별개. 팩트시트 2026-09-30 기준 12개월 분배율은 12.11%. 보수적 값 6은 기존 앱 값 유지.",
+      "parkingType": false,
+      "source": "https://globalxetfs.co.jp/content/files/QYLD-factsheet.pdf",
+      "verified": {
+        "since": 9.01,
+        "y10": 10.03,
+        "y15": null,
+        "y5": 9.33
+      }
+    },
+    "QYLG": {
+      "asOf": "2026-09-30",
+      "conservative": 8,
+      "currency": "USD",
+      "distributionRate": {
+        "asOf": "2026-08-31",
+        "basis": "TTM",
+        "value": 16.8
+      },
+      "listingDate": "2020-09-18",
+      "lockedReason": "y10·y15: 상장 2020-09-18로 해당 기간 없음.",
+      "market": "US",
+      "name": "Global X Nasdaq 100 Covered Call & Growth ETF",
+      "note": "verified는 Global X 팩트시트 2026-09-30 기준 NAV 연평균 총수익률(배당 재투자). 분배율 16.80%는 발행사 팩트시트 기준 12개월 분배율(2026-08-31)이며, 2026-09-30 팩트시트 기준으로는 16.40%, 최근 한 달 분배 연환산은 약 8% 수준으로 월별 변동성이 매우 큼 — 분배율을 총수익률로 오해하면 안 됨. 보수적 값 8은 나스닥 성장 기울기(5년 12.91%·설정 이후 14.91%)를 반영한 기획 가정값으로 공시가 아님.",
+      "parkingType": false,
+      "source": "https://globalxetfs.co.jp/content/files/QYLG-factsheet.pdf",
+      "verified": {
+        "since": 14.91,
+        "y10": null,
+        "y15": null,
+        "y5": 12.91
+      }
+    },
+    "RYLD": {
+      "asOf": "2026-09-30",
+      "conservative": 4,
+      "currency": "USD",
+      "distributionRate": {
+        "asOf": "2026-11-20",
+        "basis": "TTM",
+        "value": 12.01
+      },
+      "listingDate": "2019-04-17",
+      "lockedReason": "y10·y15: 상장 2019-04-17로 해당 기간 없음.",
+      "market": "US",
+      "name": "Global X Russell 2000 Covered Call ETF",
+      "note": "verified는 Global X 팩트시트 2026-09-30 기준 NAV 연평균 총수익률(배당 재투자). 5년 2.66%·설정 이후 5.47%로 15종 중 장기 총수익률이 가장 낮아(러셀2000 소형주 기반) 보수적 값 4로 설정. 보수적 값은 공시가 아닌 기획 가정값임. 분배율 12.01%는 보완 리스트 기준(2026-11-20)이며 NAV 총수익률과 별개. 팩트시트 기준 현재 분배의 자본반환 비중 100.00%(2026-09-21 기준).",
+      "parkingType": false,
+      "source": "https://globalxetfs.co.jp/content/files/RYLD-factsheet.pdf",
+      "verified": {
+        "since": 5.47,
+        "y10": null,
+        "y15": null,
+        "y5": 2.66
+      }
+    },
+    "SCHD": {
+      "asOf": "2026-09-30",
+      "conservative": 8.5,
+      "currency": "USD",
+      "listingDate": "2011-10-20",
+      "lockedReason": "y15 없음: 상장 2011-10-20으로 15년 기간 없음",
+      "market": "US",
+      "name": "Schwab U.S. Dividend Equity ETF",
+      "parkingType": false,
+      "source": null,
+      "verified": {
+        "since": 13.11,
+        "y10": 12.44,
+        "y15": null,
+        "y5": 9.48
+      }
+    },
+    "SCHG": {
+      "asOf": "2026-09-30",
+      "conservative": 9.5,
+      "currency": "USD",
+      "listingDate": "2009-12-11",
+      "lockedReason": "y15 없음: 발행사 표에 15년 열 없음",
+      "market": "US",
+      "name": "Schwab U.S. Large-Cap Growth ETF",
+      "parkingType": false,
+      "source": "https://hahninvest.com/comparisons/schg-vs-qqq/",
+      "verified": {
+        "since": 16.54,
+        "y10": 18.68,
+        "y15": null,
+        "y5": 14.71
+      }
+    },
+    "SMH": {
+      "asOf": "2026-09-30",
+      "conservative": 10,
+      "currency": "USD",
+      "listingDate": "2011-12-20",
+      "lockedReason": "y15 없음: 상장 2011-12-20으로 15년 기간 없음",
+      "market": "US",
+      "name": "VanEck Semiconductor ETF",
+      "parkingType": false,
+      "source": "https://www.vaneck.com/us/en/investments/semiconductor-etf-smh-fact-sheet.pdf",
+      "verified": {
+        "since": 29.9,
+        "y10": 34.41,
+        "y15": null,
+        "y5": 37.37
+      }
+    },
+    "SPHY": {
+      "asOf": "2026-09-30",
+      "conservative": 4,
+      "currency": "USD",
+      "distributionRate": {
+        "asOf": "2026-11-19",
+        "basis": "TTM",
+        "value": 7.46
+      },
+      "listingDate": "2012-06-18",
+      "lockedReason": "y15: 상장 2012-06-18로 15년 기간 없음 (기준일 2026-09-30 기준 약 14.3년).",
+      "market": "US",
+      "name": "SPDR Portfolio High Yield Bond ETF",
+      "note": "conservative 4는 공시가 아닌 기획 가정값 (10년 4.55%·설정 이후 4.85% 대비 보수적 설정). 하이일드 채권 ETF(주식형 아님) — 총수익률은 이자+가격 변동 기준이며 주식 배당 ETF와 성격이 다름. verified는 SSGA 공식 팩트시트·펀드 페이지(2026-09-30 기준) NAV 연평균 총수익률. 분배율 7.46%는 SSGA 공식 기준(2026-11-19).",
+      "parkingType": false,
+      "source": "https://www.ssga.com/us/en/individual/etfs/state-street-spdr-portfolio-high-yield-bond-index-etf-sphy",
+      "verified": {
+        "since": 4.85,
+        "y10": 4.55,
+        "y15": null,
+        "y5": 3.75
+      }
+    },
+    "SPMO": {
+      "asOf": "2026-09-30",
+      "conservative": 9.5,
+      "currency": "USD",
+      "listingDate": "2015-10-09",
+      "lockedReason": "y15 없음: 상장 2015-10-09로 15년 기간 없음",
+      "market": "US",
+      "name": "Invesco S&P 500 Momentum ETF",
+      "parkingType": false,
+      "source": "https://www.krungsriasset.com/DataWeb/AYFWeb/en/pdf/MTF_KF-SP500MFX.pdf?rnd=20260918014611",
+      "verified": {
+        "since": 19.2,
+        "y10": 20.19,
+        "y15": null,
+        "y5": 21.6
+      }
+    },
+    "SPY": {
+      "asOf": "2026-09-30",
+      "conservative": 8,
+      "currency": "USD",
+      "listingDate": "1993-01-22",
+      "lockedReason": "y15 없음: 발행사 표에 15년 열 없음",
+      "market": "US",
+      "name": "SPDR S&P 500 ETF Trust",
+      "parkingType": false,
+      "source": null,
+      "verified": {
+        "since": 10.82,
+        "y10": 15.18,
+        "y15": null,
+        "y5": 13.65
+      }
+    },
+    "SPYI": {
+      "asOf": "2026-09-30",
+      "conservative": 7.5,
+      "currency": "USD",
+      "distributionRate": {
+        "asOf": "2026-11",
+        "basis": "TTM",
+        "value": 12.95
+      },
+      "listingDate": "2022-08-30",
+      "lockedReason": "y5·y10·y15: 상장 2022-08-30으로 해당 기간 없음.",
+      "market": "US",
+      "name": "NEOS S&P 500 High Income ETF",
+      "note": "verified는 NEOS 공식 펀드 페이지 2026-09-30 분기말 기준 NAV 연평균 총수익률(배당 재투자). 분배의 대부분은 자본반환(return of capital)이라 세금 처리가 일반 배당과 다름 — 2026년 9월 분배의 약 94%가 자본반환으로 추정됨. 분배율 12.95%는 보완 리스트 기준(2026-11)이며 NAV 총수익률과 별개(NEOS 2026-10-31 팩트시트 기준 분배율은 11.43%). 보수적 값 7.5는 설정 이후 14.73%가 강세장 4년 기록임을 감안해 낮춘 기획 가정값으로 공시가 아님.",
+      "parkingType": false,
+      "source": "https://neosfunds.com/spyi/",
+      "verified": {
+        "since": 14.73,
+        "y10": null,
+        "y15": null,
+        "y5": null
+      }
+    },
+    "SPYM": {
+      "asOf": "2026-09-30",
+      "conservative": 8,
+      "currency": "USD",
+      "listingDate": "2005-11-08",
+      "lockedReason": "y15 없음: 발행사 표에 15년 열 없음",
+      "market": "US",
+      "name": "State Street SPDR Portfolio S&P 500 ETF",
+      "parkingType": false,
+      "source": "http://ssgafunds.com/us/en/intermediary/library-content/products/factsheets/etfs/us/factsheet-us-en-spym.pdf",
+      "verified": {
+        "since": 11.29,
+        "y10": 15.31,
+        "y15": null,
+        "y5": 13.76
+      }
+    },
+    "SSO": {
+      "asOf": "2026-10-31",
+      "conservative": 9.5,
+      "currency": "USD",
+      "distributionRate": {
+        "asOf": "2026-11-20",
+        "basis": "TTM",
+        "value": 0.85
+      },
+      "listingDate": "2006-06-21",
+      "lockedReason": "y5·y10·y15: ProShares 공식 공시에서 해당 기간 미확인으로 잠금(2차 출처 인용값은 검증 근거로 쓰지 않음).",
+      "market": "US",
+      "name": "ProShares Ultra S&P500",
+      "note": "레버리지 ETF(S&P500 일일 2배 추종)로 배당 ETF가 아님. 분배율은 참고용이며, 일일 레버리지 리셋으로 장기 수익률이 기초지수 수익률의 2배와 다를 수 있음. 상장일 2006-06-21은 최초 거래일 기준이며, ProShares 공식 설정일(Inception Date)은 2006-06-19임. verified since 값은 ProShares 공식 공시(2026-10-31 기준, NAV 총수익률) 그대로 유지.",
+      "parkingType": false,
+      "source": "https://www.proshares.com/our-etfs/leveraged-and-inverse/SSO",
+      "verified": {
+        "since": 15.57,
+        "y10": null,
+        "y15": null,
+        "y5": null
+      }
+    },
+    "TQQQ": {
+      "asOf": "2026-10-31",
+      "conservative": 10,
+      "currency": "USD",
+      "distributionRate": {
+        "asOf": "2026-11-20",
+        "basis": "TTM",
+        "value": 1.18
+      },
+      "listingDate": "2010-02-09",
+      "lockedReason": "y5·y10·y15: ProShares 공식 공시에서 해당 기간 미확인으로 잠금(2차 출처 인용값은 검증 근거로 쓰지 않음).",
+      "market": "US",
+      "name": "ProShares UltraPro QQQ",
+      "note": "레버리지 ETF(나스닥100 일일 3배 추종)로 배당 ETF가 아님. 분배율은 참고용이며, 일일 레버리지 리셋으로 장기 수익률이 기초지수 수익률의 3배와 다를 수 있음. 상장일 2010-02-09는 ProShares 공식 설정일(Inception Date)과 동일함. verified since 값은 ProShares 공식 공시(2026-10-31 기준, NAV 총수익률) 그대로 유지.",
+      "parkingType": false,
+      "source": "https://www.proshares.com/our-etfs/leveraged-and-inverse/tqqq",
+      "verified": {
+        "since": 41.02,
+        "y10": null,
+        "y15": null,
+        "y5": null
+      }
+    },
+    "VEA": {
+      "asOf": "2026-09-30",
+      "conservative": 6,
+      "currency": "USD",
+      "listingDate": "2007-07-20",
+      "lockedReason": "y15 없음: 발행사 표에 15년 열 없음",
+      "market": "US",
+      "name": "Vanguard FTSE Developed Markets ETF",
+      "parkingType": false,
+      "source": "https://fund-docs.vanguard.com/F0936.pdf?product-type=ETF&Domicile=USA",
+      "verified": {
+        "since": 4.93,
+        "y10": 9.76,
+        "y15": null,
+        "y5": 10.32
+      }
+    },
+    "VGT": {
+      "asOf": "2026-09-30",
+      "conservative": 9,
+      "currency": "USD",
+      "listingDate": "2004-01-26",
+      "lockedReason": "y15 없음: 발행사 표에 15년 열 없음",
+      "market": "US",
+      "name": "Vanguard Information Technology ETF",
+      "parkingType": false,
+      "source": "http://institutional.vanguard.com/iippdf/pdfs/FS958R.pdf",
+      "verified": {
+        "since": 15.03,
+        "y10": 24.72,
+        "y15": null,
+        "y5": 20.92
+      }
+    },
+    "VIG": {
+      "asOf": "2026-09-30",
+      "conservative": 8,
+      "currency": "USD",
+      "distributionRate": {
+        "asOf": "2026-09-30",
+        "basis": "TTM",
+        "value": 1.56
+      },
+      "listingDate": "2006-04-21",
+      "lockedReason": "y15: 발행사 팩트시트 표에 15년 열 없음 (1·3·5·10년+설정 이후만 게재).",
+      "market": "US",
+      "name": "Vanguard Dividend Appreciation ETF",
+      "note": "conservative 8은 공시가 아닌 기획 가정값 (10년 12.86%·5년 10.72%·설정 이후 9.99% 대비 보수적 설정). verified는 Vanguard 팩트시트(2026-09-30 기준) NAV 연평균 총수익률.",
+      "parkingType": false,
+      "source": "https://aemdam.assets.vgdynamic.info/assets/corp/fund_communications/pdf_publish/us-products/fact-sheet/F0920.pdf",
+      "verified": {
+        "since": 9.99,
+        "y10": 12.86,
+        "y15": null,
+        "y5": 10.72
+      }
+    },
+    "VOO": {
+      "asOf": "2026-09-30",
+      "conservative": 8,
+      "currency": "USD",
+      "listingDate": "2010-09-07",
+      "lockedReason": "y15 없음: 발행사 표에 15년 열 없음",
+      "market": "US",
+      "name": "Vanguard S&P 500 ETF",
+      "parkingType": false,
+      "source": "https://advorahq.com/vti-vs-voo/",
+      "verified": {
+        "since": 14.94,
+        "y10": 15.29,
+        "y15": null,
+        "y5": 13.75
+      }
+    },
+    "VT": {
+      "asOf": "2026-09-30",
+      "conservative": 8,
+      "currency": "USD",
+      "listingDate": "2008-06-24",
+      "lockedReason": "y15 없음: 발행사 표에 15년 열 없음",
+      "market": "US",
+      "name": "Vanguard Total World Stock ETF",
+      "parkingType": false,
+      "source": "https://vwrp.co.uk/vt-vs-vxus-vs-vti/",
+      "verified": {
+        "since": 8.78,
+        "y10": 12.32,
+        "y15": null,
+        "y5": 11.34
+      }
+    },
+    "VTI": {
+      "asOf": "2026-09-30",
+      "conservative": 8,
+      "currency": "USD",
+      "listingDate": "2001-05-24",
+      "lockedReason": "y15 없음: 발행사 표에 15년 열 없음",
+      "market": "US",
+      "name": "Vanguard Total Stock Market ETF",
+      "parkingType": false,
+      "source": "https://advorahq.com/vti-vs-voo/",
+      "verified": {
+        "since": 9.44,
+        "y10": 14.7,
+        "y15": null,
+        "y5": 12.56
+      }
+    },
+    "VTV": {
+      "asOf": "2026-09-30",
+      "conservative": 7.5,
+      "currency": "USD",
+      "listingDate": "2004-01-26",
+      "lockedReason": "y15 없음: 발행사 표에 15년 열 없음",
+      "market": "US",
+      "name": "Vanguard Morningstar Value ETF",
+      "parkingType": false,
+      "source": "https://fund-docs.vanguard.com/F0966.pdf?product-type=ETF&Domicile=USA",
+      "verified": {
+        "since": 9.44,
+        "y10": 12.28,
+        "y15": null,
+        "y5": 12.43
+      }
+    },
+    "VUG": {
+      "asOf": "2026-09-30",
+      "conservative": 9,
+      "currency": "USD",
+      "listingDate": "2004-01-26",
+      "lockedReason": "y15 없음: 발행사 표에 15년 열 없음",
+      "market": "US",
+      "name": "Vanguard Morningstar Growth ETF",
+      "parkingType": false,
+      "source": "https://advisors.vanguard.com/content/dam/fas/pdfs/FACMDAPC.pdf",
+      "verified": {
+        "since": 12.15,
+        "y10": 17.94,
+        "y15": null,
+        "y5": 13.87
+      }
+    },
+    "VXUS": {
+      "asOf": "2026-09-30",
+      "conservative": 6,
+      "currency": "USD",
+      "listingDate": "2011-01-26",
+      "lockedReason": "y15 없음: 상장 2011-01-26으로 15년 기간 없음",
+      "market": "US",
+      "name": "Vanguard Total International Stock ETF",
+      "parkingType": false,
+      "source": "https://institutional.vanguard.com/assets/corp/fund_communications/pdf_publish/us-products/fact-sheet/F3369.pdf",
+      "verified": {
+        "since": 6.53,
+        "y10": 9.2,
+        "y15": null,
+        "y5": 9.35
+      }
+    },
+    "VYM": {
+      "asOf": "2026-09-30",
+      "conservative": 7.5,
+      "currency": "USD",
+      "distributionRate": {
+        "asOf": "2026-09-30",
+        "basis": "TTM",
+        "value": 2.37
+      },
+      "listingDate": "2006-11-10",
+      "lockedReason": "y15: 발행사 팩트시트 표에 15년 열 없음 (1·3·5·10년+설정 이후만 게재).",
+      "market": "US",
+      "name": "Vanguard High Dividend Yield ETF",
+      "note": "conservative 7.5는 기존 앱 값 유지. verified는 Vanguard 팩트시트(2026-09-30 기준) NAV 연평균 총수익률.",
+      "parkingType": false,
+      "source": "https://fund-docs.vanguard.com/F0923.pdf?product-type=ETF",
+      "verified": {
+        "since": 9.13,
+        "y10": 11.28,
+        "y15": null,
+        "y5": 11.63
+      }
+    },
+    "VYMI": {
+      "asOf": "2026-09-30",
+      "conservative": 7.5,
+      "currency": "USD",
+      "distributionRate": {
+        "asOf": "2026-11-22",
+        "basis": "TTM",
+        "value": 3.91
+      },
+      "listingDate": "2016-02-25",
+      "lockedReason": "y15: 상장 2016-02-25로 15년 기간 없음.",
+      "market": "US",
+      "name": "Vanguard International High Dividend Yield ETF",
+      "note": "conservative 7.5는 공시가 아닌 기획 가정값 (10년 10.57%·5년 13.92%·설정 이후 11.33% 대비 보수적 설정). verified는 Vanguard 팩트시트(2026-09-30 기준) NAV 연평균 총수익률. 해외 배당 ETF로 미국 내 배당 ETF와 직접 비교 시 원천징수·환율 영향을 고려할 것.",
+      "parkingType": false,
+      "source": "https://fund-docs.vanguard.com/F4430.pdf",
+      "verified": {
+        "since": 11.33,
+        "y10": 10.57,
+        "y15": null,
+        "y5": 13.92
+      }
+    },
+    "XYLD": {
+      "asOf": "2026-09-30",
+      "conservative": 6,
+      "currency": "USD",
+      "distributionRate": {
+        "asOf": "2026-11-20",
+        "basis": "TTM",
+        "value": 11.92
+      },
+      "listingDate": "2013-06-21",
+      "lockedReason": "y15: 상장 2013-06-21로 2026-09-30 기준 15년 기간 없음(약 13.3년).",
+      "market": "US",
+      "name": "Global X S&P 500 Covered Call ETF",
+      "note": "verified는 Global X 펀드 페이지 2026-09-30 분기말 기준 NAV 연평균 총수익률(배당 재투자). 분배율 11.92%는 보완 리스트 기준(2026-11-20)이며 NAV 총수익률과 별개. 보수적 값 6은 기존 앱 값 유지.",
+      "parkingType": false,
+      "source": "https://globalxetfs.co.jp/en/funds/xyld/",
+      "verified": {
+        "since": 8.35,
+        "y10": 8.49,
+        "y15": null,
+        "y5": 8.25
+      }
+    },
+    "XYLG": {
+      "asOf": "2026-09-30",
+      "conservative": 7.5,
+      "currency": "USD",
+      "distributionRate": {
+        "asOf": "2026-11-21",
+        "basis": "TTM",
+        "value": 13.88
+      },
+      "listingDate": "2020-09-18",
+      "lockedReason": "y10·y15: 상장 2020-09-18로 해당 기간 없음.",
+      "market": "US",
+      "name": "Global X S&P 500 Covered Call & Growth ETF",
+      "note": "verified는 Global X 팩트시트 2026-09-30 기준 NAV 연평균 총수익률(배당 재투자). 분배율 13.88%는 보완 리스트 기준(2026-11-21)이며, 팩트시트 2026-09-30 기준 12개월 분배율은 12.67%로 시점에 따라 달라짐. 보수적 값 7.5는 5년 10.97%·설정 이후 13.21%를 반영한 기획 가정값으로 공시가 아님. 팩트시트 기준 현재 분배의 자본반환 비중 80.20%(2026-09-21 기준).",
+      "parkingType": false,
+      "source": "https://globalxetfs.co.jp/content/files/XYLG-factsheet.pdf",
+      "verified": {
+        "since": 13.21,
+        "y10": null,
+        "y15": null,
+        "y5": 10.97
+      }
+    }
+  },
+  "updatedAt": "2026-11-23",
+  "version": 1
+}
